@@ -60,6 +60,9 @@ a:hover {
 }
 
 /* Hamburger menu */
+#hamburger-nav {
+    display: none;
+}
 
 #hamburger-menu {
     position: relative;
